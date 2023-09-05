@@ -7,6 +7,7 @@ How to use: After downloading, double-click and click to install (just install i
 
 If you meet any question, pls contact the email nitchiegentiane@gmail.com
 
+---
 
 字体文件Doman.tff中包含了多玛字体（对应日语），艾欧泽亚字体（对应英语和阿拉伯数字）
 
